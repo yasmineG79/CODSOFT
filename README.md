@@ -1,7 +1,7 @@
 # CODSOFT
 ## SUMMARY
 The following tasks are part of a 1 month Python Programming internship with CODSOFT.
-The objective was to get familiar with Python language syntax through simple command line interface implemenations of some simple programs like the 'Calculator', for example.
+The objective was to get familiar with Python language syntax through simple command line interface implementations of some simple programs like the 'Calculator', for example.
 
 
 ### TASK 1: TO-DO LIST
